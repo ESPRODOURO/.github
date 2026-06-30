@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://esprodouro.com/wp-content/uploads/2025/05/af_logoesprodouro2025-01.webp" alt="ESPRODOURO — Escola Profissional do Alto Douro" width="420" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://esprodouro.com/wp-content/uploads/2025/05/af_logoesprodouro2025white-01-1.webp" />
+  <source media="(prefers-color-scheme: light)" srcset="https://esprodouro.com/wp-content/uploads/2025/05/af_logoesprodouro2025-01.webp" />
+  <img src="https://esprodouro.com/wp-content/uploads/2025/05/af_logoesprodouro2025-01.webp" alt="ESPRODOURO — Escola Profissional do Alto Douro" width="420" />
+</picture>
 
 # ESPRODOURO — Escola Profissional do Alto Douro
 
@@ -49,7 +53,13 @@ Autonomia · Verdade · Inovação · Solidariedade · Esperança · Otimismo ·
 
 ---
 
-[<img src="https://esprodouro.com/wp-content/uploads/2025/01/barra-cofinanciamento-pessoas-2030-01-1024x127.webp" alt="Cofinanciado pela União Europeia, FSE+ e Programa Pessoas 2030" width="720" />](https://esprodouro.com/esprodouro-transparencia/)
+<a href="https://esprodouro.com/esprodouro-transparencia/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://esprodouro.com/wp-content/uploads/2025/05/barra-cofinanciamento-pessoas-2030_white.webp" />
+    <source media="(prefers-color-scheme: light)" srcset="https://esprodouro.com/wp-content/uploads/2025/01/barra-cofinanciamento-pessoas-2030-01-1024x127.webp" />
+    <img src="https://esprodouro.com/wp-content/uploads/2025/01/barra-cofinanciamento-pessoas-2030-01-1024x127.webp" alt="Cofinanciado pela União Europeia, FSE+ e Programa Pessoas 2030" width="720" />
+  </picture>
+</a>
 
 **© ESPRODOURO – Escola Profissional do Alto Douro · ASDOURO**
 
