@@ -10,7 +10,7 @@
 
 ### *"O teu sonho é o nosso desafio!"*
 
-**Exponenciar a qualidade de ensino — qualidade com felicidade.**
+**Exponenciar a qualidade de ensino - qualidade com felicidade.**
 
 [Website](https://esprodouro.com) · [Facebook](https://www.facebook.com/EsprodouroEscolaViva/) · [Instagram](https://www.instagram.com/esprodouro_escola/) · [LinkedIn](https://www.linkedin.com/company/esprodouro) · [YouTube](https://www.youtube.com/channel/UCRcTv040JIhvp8dm5V8YSFw)
 
@@ -36,7 +36,7 @@ Somos uma escola de **proximidade e afetos**, num ambiente familiar que coloca o
 
 ## 🧭 Os nossos valores
 
-Na ESPRODOURO, as salas não têm números nas portas — têm **valores pintados nas paredes**. São 17, e nenhum vale mais do que outro:
+Na ESPRODOURO, as salas não têm números nas portas - têm **valores pintados nas paredes**. São 17, e nenhum vale mais do que outro:
 
 Autonomia · Verdade · Inovação · Solidariedade · Esperança · Otimismo · Responsabilidade · Justiça · Tolerância · Força · Liberdade · Gratidão · Lealdade · Honestidade · Felicidade · Fraternidade · Igualdade
 
